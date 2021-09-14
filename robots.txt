@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://support.perl.dev.br/sitemap.xml
